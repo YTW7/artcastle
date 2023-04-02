@@ -34,12 +34,10 @@ const renderNotConnectedContainer = () => (
     <header class="text-gray-600 body-font bg-gradient-to-b from-purple-500 to-green-500  " >
   <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
     <div class="flex title-font font-medium items-center text-white mb-4 md:mb-0">
-      {/* <img href="/" src="/logo.png" class="w-10 h-10 rounded-lg" alt="logo" /> */}
       <div class="text-navblue text-2xl ml-2 font-black">ART CASTLE</div>
       
     </div>
     <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 flex flex-wrap items-center text-base justify-center">
-      {/* <a href="/" class="mr-5 text-navblue hover:text-white font-black"></a> */}
       
     </nav>
     
