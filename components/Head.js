@@ -8,9 +8,9 @@ export default function HeadComponent() {
       <meta name="theme-color" content="#000000" />
 
       <title>Bonk-a-Memer</title>
-      <meta name="title" content="Bonk-a-Memer" />
-      <meta name="description" content="Meme Platform powered by $BONK!" />
-      <link rel="icon" href="/logo_round.png" />
+      <meta name="title" content="ART CASTLE" />
+      <meta name="description" content="Empowering Artists with Crypto " />
+      <link rel="icon" href="/logo.png" />
     
     </Head>
   );
