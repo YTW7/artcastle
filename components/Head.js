@@ -7,7 +7,7 @@ export default function HeadComponent() {
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       <meta name="theme-color" content="#000000" />
 
-      <title>Bonk-a-Memer</title>
+      <title>ART CASTLE | Empowering Artists with Crypto</title>
       <meta name="title" content="ART CASTLE" />
       <meta name="description" content="Empowering Artists with Crypto " />
       <link rel="icon" href="/logo.png" />
