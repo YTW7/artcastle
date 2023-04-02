@@ -85,7 +85,7 @@ export default function Buy({ itemID }) {
             setStatus(STATUS.Paid);
             addOrder(order);
             setLoading(false);
-            alert("Thanks for Supporting a Memer!");
+            alert("Thanks for Supporting an Artist!");
           }
         } catch (e) {
           if (e instanceof FindReferenceError) {
