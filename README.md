@@ -3,7 +3,7 @@
 ART CASTLE gives artists a platform to post their artwork and get supported with crypto around the globe directly without any involvement of third-party.
 Art-embracing users can use ART CASTLE to simply view other people's artwork while they can also support them with $USDC.**
 
-# Video Link Explaining the Project and working: 
+# Video Link for the project's MVP Demo: 
 **https://www.youtube.com/watch?v=K1K6mqYOJLQ**
 
 # Tech Stack Used: 
